@@ -4,7 +4,7 @@
 <a href="#"><img src="https://files.catbox.moe/eaun6t.jpg" height="100%" width="100%" /></a>
 </p>
 
-<h3 align="center">Hello, My name is Nagki, i am 15 years old, i keep learning to program. I like C but I'm not that good at programming with it.</h3>
+<h3 align="center">Hello, My name is Nagki, i am 16 years old, i keep learning to program. I like C but I'm not that good at programming with it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmenagki&label=Profile%20views&color=0e75b6&style=flat" alt="itsmenagki" /> </p>
 
